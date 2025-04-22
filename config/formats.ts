@@ -86,6 +86,14 @@ export const Formats: FormatList = [
 		banlist: ['Uber', 'Arena Trap', 'Sand Veil', 'Quick Claw', 'Soul Dew', 'Baton Pass'],
 	},
 	{
+		name: "[Gen 9] CookieMon OU",
+		desc: `A metagame based on the Cookie Run series, featuring a variety of new Pokemon and moves. PERSONAL SERVER USE ONLY.`,
+		threads: [],
+		mod: 'cookiemon',
+		ruleset: ['Standard', 'Data Mod'],
+		banlist: ['Uber'],
+	},
+	{
 		name: "[Gen 1] Back to the Past",
 		   desc: `<b>[Gen 1] Back to the Past</b>: Adapting future gen moves and Pokemon into RBY`,
 		   threads: [
